@@ -1,0 +1,24 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+a{
+    color: rgb(1, 3, 3);
+    background-color: antiquewhite;
+     border-radius: 12px;
+     padding: 12px 15px;
+}
+  
